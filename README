@@ -1,0 +1,17 @@
+                     Tiny Applications Collection
+                     $Date: 2007/08/07 13:47:56 $
+Tiny Applications Collection is a set of small programs, shell scripts
+and  other things  which  may be  useful  in everyday  life of  system
+administrators, users  and programmers.   They can be  also used  as a
+base for a more specialised application as they are all Open Source.
+If you have written utility which may be useful for others and want to
+share it please email me  at mina86/AT/mina86.com, I'll be glad to add
+your utility to the collection.
+At the moment the collection includes:
+ * cdiff -  adds ANSI codes to the output of diff making it a bit more
+readable. Reads input from stdin and send colorized output to stdout;
+ * cutcom - removes C++ comments  from stdin and outputs the result to
+   stdout;
+ * rot13 - performs an ROT13 'encryption' on stdin;
+More  documentation about  each  utility is  usually  provided in  the
+source code.

@@ -1,0 +1,12 @@
+Tiny Applications Collection TODO List
+* cdiff
+  - add support for more modes
+  - allow running as a wrapper
+* cutcom
+  - add command line comments style configruation options
+  - add support for more comment types
+  - add support for file names passed as arguments
+  - add support for inplace modifications
+* rot13
+  - add switch to changeing the value chars should be rotated by
+  - allow specifing files as arguments
